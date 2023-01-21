@@ -126,3 +126,9 @@ Contributed to MobSF? Here is a big thank you from our community to you. Claim y
 * Tim Brown (@timb_machine) - For the iOS Binary Analysis Ruleset
 * Shanil Prasad (@Rajuraju14) - For improving iOS ATS Analysis
 * Jovan Petrovic (@JovanPetrovic) - For sponsoring a server to host mobsf.live
+
+
+after cloning the file change the directory to mobsf cd mobsf complte file name
+then sudo ./setup.sh
+then ./run.sh 127.0.0.1:8000
+thren open the browser and open the file
